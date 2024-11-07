@@ -1,0 +1,25 @@
+{
+  "id": 1913875,
+  "name": "Restrict deletions",
+  "target": "branch",
+  "source_type": "Repository",
+  "source": "JobXcel-AI/jobxcel_flutter_frontend",
+  "enforcement": "active",
+  "conditions": {
+    "ref_name": {
+      "exclude": [],
+      "include": [
+        "refs/heads/main",
+        "refs/heads/test",
+        "refs/heads/dev",
+        "refs/heads/prod"
+      ]
+    }
+  },
+  "rules": [
+    {
+      "type": "deletion"
+    }
+  ],
+  "bypass_actors": []
+}
