@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="127.99999mm"
+   height="128mm"
+   viewBox="0 0 127.99999 128"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(102.57751,-133.44548)">
+    <g
+       id="g3-6"
+       transform="translate(-162.76482,-4.8861092)">
+      <rect
+         style="fill:#0b66c3;fill-opacity:1;stroke-width:1.0804;stroke-linecap:round"
+         id="rect1-9-9"
+         width="128"
+         height="128"
+         x="60.187309"
+         y="138.33159" />
+      <g
+         id="g11-7-1"
+         transform="matrix(0.87633222,0.17590636,-0.17581581,0.87678354,273.17347,30.823535)">
+        <circle
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.839673;stroke-linecap:round"
+           id="path11-6-81"
+           cx="-125.70649"
+           cy="220.83058"
+           r="64" />
+        <path
+           id="path10-1-1"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.905249;stroke-linecap:round"
+           d="m -135.96544,157.24214 a 64.445723,64.445723 0 0 0 -54.1922,63.55406 64.445723,64.445723 0 0 0 64.44595,64.44594 64.445723,64.445723 0 0 0 64.445439,-64.44594 64.445723,64.445723 0 0 0 -10.67005,-35.50232 35.922713,35.922713 0 0 1 -28.835409,14.65239 35.922713,35.922713 0 0 1 -35.92277,-35.92276 35.922713,35.922713 0 0 1 0.72904,-6.78137 z" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.12px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round"
+           x="-152.0912"
+           y="250.78168"
+           id="text10-8-4-2"
+           transform="rotate(6.891412)"><tspan
+             id="tspan10-2-2-1"
+             style="fill:#ffffff;stroke-width:1"
+             x="-152.0912"
+             y="250.78168">/&gt;c</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

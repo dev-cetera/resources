@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="127.99999mm"
+   width="128mm"
    height="128mm"
-   viewBox="0 0 127.99999 128"
+   viewBox="0 0 128 128"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,10 +13,10 @@
      id="defs1" />
   <g
      id="layer1"
-     transform="translate(-40.704099,-85.617475)">
+     transform="translate(133.68631,97.568212)">
     <g
        id="g11"
-       transform="matrix(0.97370247,0.19545151,-0.1953509,0.97420394,270.24428,-40.947031)">
+       transform="matrix(0.97370247,0.19545151,-0.1953509,0.97420394,95.853877,-224.13272)">
       <circle
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.839673;stroke-linecap:round"
          id="path11"

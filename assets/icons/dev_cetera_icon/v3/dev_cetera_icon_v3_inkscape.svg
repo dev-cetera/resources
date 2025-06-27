@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
-   sodipodi:docname="dev_cetera_logo_white_project.svg"
+   sodipodi:docname="dev_cetera_icon_v3_inkscape.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.5521519"
-     inkscape:cx="313.31958"
-     inkscape:cy="571.40074"
-     inkscape:window-width="1728"
-     inkscape:window-height="992"
-     inkscape:window-x="1590"
-     inkscape:window-y="38"
+     inkscape:zoom="0.50111633"
+     inkscape:cx="264.40966"
+     inkscape:cy="450.99309"
+     inkscape:window-width="1592"
+     inkscape:window-height="1139"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -40,9 +40,9 @@
      id="layer1">
     <g
        id="g11"
-       transform="matrix(0.97370247,0.19545151,-0.1953509,0.97420394,270.24428,-40.947031)"
-       inkscape:label="logo_white"
-       inkscape:export-filename="dev_cetera_logo_white_512.png"
+       transform="matrix(0.97370247,0.19545151,-0.1953509,0.97420394,306.52103,-119.59113)"
+       inkscape:label="logo"
+       inkscape:export-filename="1.png"
        inkscape:export-xdpi="101.60001"
        inkscape:export-ydpi="101.60001">
       <circle
@@ -70,6 +70,114 @@
            style="fill:#ffffff;stroke-width:1"
            x="-152.0912"
            y="250.78168">/&gt;c</tspan></text>
+    </g>
+    <g
+       id="g3-8"
+       transform="translate(-56.487857,-49.721456)"
+       inkscape:label="logo_padded"
+       inkscape:export-filename="2.png"
+       inkscape:export-xdpi="101.60001"
+       inkscape:export-ydpi="101.60001">
+      <rect
+         style="fill:none;stroke-width:1.0804;stroke-linecap:round"
+         id="rect1-9-2"
+         width="128"
+         height="128"
+         x="55.433651"
+         y="128.60973"
+         inkscape:label="bg" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.00178;stroke-linecap:round"
+         id="path3"
+         cx="119.43365"
+         cy="192.60973"
+         r="64"
+         inkscape:label="halo" />
+      <g
+         id="g11-7-7"
+         transform="matrix(0.87633222,0.17590636,-0.17581581,0.87678354,268.41982,21.101672)"
+         inkscape:label="logo_white"
+         inkscape:export-filename="dev_cetera_logo_white_512.png"
+         inkscape:export-xdpi="101.60001"
+         inkscape:export-ydpi="101.60001">
+        <circle
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.839673;stroke-linecap:round"
+           id="path11-6-8"
+           cx="-125.70649"
+           cy="220.83058"
+           r="64"
+           inkscape:label="bg" />
+        <path
+           id="path10-1-2"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.905249;stroke-linecap:round"
+           inkscape:label="dark"
+           d="m -135.96544,157.24214 a 64.445723,64.445723 0 0 0 -54.1922,63.55406 64.445723,64.445723 0 0 0 64.44595,64.44594 64.445723,64.445723 0 0 0 64.445439,-64.44594 64.445723,64.445723 0 0 0 -10.67005,-35.50232 35.922713,35.922713 0 0 1 -28.835409,14.65239 35.922713,35.922713 0 0 1 -35.92277,-35.92276 35.922713,35.922713 0 0 1 0.72904,-6.78137 z" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.12px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round"
+           x="-152.0912"
+           y="250.78168"
+           id="text10-8-4-4"
+           transform="rotate(6.891412)"
+           inkscape:label="/&gt;c"><tspan
+             sodipodi:role="line"
+             id="tspan10-2-2-6"
+             style="fill:#ffffff;stroke-width:1"
+             x="-152.0912"
+             y="250.78168">/&gt;c</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3-6"
+       transform="translate(16.751049,26.265174)"
+       inkscape:label="logo_padded_linkedin"
+       inkscape:export-filename="3.svg"
+       inkscape:export-xdpi="101.60001"
+       inkscape:export-ydpi="101.60001">
+      <rect
+         style="fill:#0b66c3;fill-opacity:1;stroke-width:1.0804;stroke-linecap:round"
+         id="rect1-9-9"
+         width="128"
+         height="128"
+         x="60.187309"
+         y="138.33159"
+         inkscape:label="bg"
+         inkscape:export-filename="dev_cetera_logo_v3_padded_linkedin.png"
+         inkscape:export-xdpi="101.60001"
+         inkscape:export-ydpi="101.60001" />
+      <g
+         id="g11-7-1"
+         transform="matrix(0.87633222,0.17590636,-0.17581581,0.87678354,273.17347,30.823535)"
+         inkscape:label="logo_white"
+         inkscape:export-filename="dev_cetera_logo_white_512.png"
+         inkscape:export-xdpi="101.60001"
+         inkscape:export-ydpi="101.60001">
+        <circle
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.839673;stroke-linecap:round"
+           id="path11-6-81"
+           cx="-125.70649"
+           cy="220.83058"
+           r="64"
+           inkscape:label="bg" />
+        <path
+           id="path10-1-1"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.905249;stroke-linecap:round"
+           inkscape:label="dark"
+           d="m -135.96544,157.24214 a 64.445723,64.445723 0 0 0 -54.1922,63.55406 64.445723,64.445723 0 0 0 64.44595,64.44594 64.445723,64.445723 0 0 0 64.445439,-64.44594 64.445723,64.445723 0 0 0 -10.67005,-35.50232 35.922713,35.922713 0 0 1 -28.835409,14.65239 35.922713,35.922713 0 0 1 -35.92277,-35.92276 35.922713,35.922713 0 0 1 0.72904,-6.78137 z" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65.12px;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round"
+           x="-152.0912"
+           y="250.78168"
+           id="text10-8-4-2"
+           transform="rotate(6.891412)"
+           inkscape:label="/&gt;c"><tspan
+             sodipodi:role="line"
+             id="tspan10-2-2-1"
+             style="fill:#ffffff;stroke-width:1"
+             x="-152.0912"
+             y="250.78168">/&gt;c</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
